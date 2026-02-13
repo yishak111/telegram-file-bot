@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 # ====== YOUR CONFIG ======
 BOT_TOKEN = "8454786447:AAG6nrgSpE-jU77B4fnsnM6unQFozzt3zxw"
 STORAGE_CHANNEL_ID = -1003823527569
-FORCE_JOIN_CHANNEL = "WaseRecords_et"  # without https://t.me/
+FORCE_JOIN_CHANNEL = "@WaseRecords_et"  # without https://t.me/
 ADMIN_ID = 7230332671
 # ==========================
 
